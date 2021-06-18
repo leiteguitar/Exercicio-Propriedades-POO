@@ -1,0 +1,13 @@
+C:\Users\Vinny\source\repos\Bic_Canetas\bin\Debug\netcoreapp3.1\Bic_Grafite.exe
+C:\Users\Vinny\source\repos\Bic_Canetas\bin\Debug\netcoreapp3.1\Bic_Grafite.deps.json
+C:\Users\Vinny\source\repos\Bic_Canetas\bin\Debug\netcoreapp3.1\Bic_Grafite.runtimeconfig.json
+C:\Users\Vinny\source\repos\Bic_Canetas\bin\Debug\netcoreapp3.1\Bic_Grafite.runtimeconfig.dev.json
+C:\Users\Vinny\source\repos\Bic_Canetas\bin\Debug\netcoreapp3.1\Bic_Grafite.dll
+C:\Users\Vinny\source\repos\Bic_Canetas\bin\Debug\netcoreapp3.1\Bic_Grafite.pdb
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.dll
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.pdb
+C:\Users\Vinny\source\repos\Bic_Canetas\obj\Debug\netcoreapp3.1\Bic_Grafite.genruntimeconfig.cache
